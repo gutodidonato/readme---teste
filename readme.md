@@ -7,7 +7,6 @@ A brief description of what this project does and who it's for
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://choosealicense.com/licenses/gpl-3.0/)  
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
-[![Static Badge](https://img.shields.io/badge/Python_3C77A8/)
 
 ## Features
 
